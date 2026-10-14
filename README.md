@@ -13,6 +13,9 @@ https://my-size-ty.vercel.app/
 
 自分が持っている「ちょうどいい服」を基準服として登録し、商品の実寸と比較することで、自分のサイズ感に合った商品を探しやすくすることを目的としています。
 
+# 設計ドキュメント
+詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。（[こちらからアクセス](https://docs.google.com/spreadsheets/d/1UnZeIsbFOfYKDT_TYzcnSqOWJNvDJYRQEYkkcsbNlpQ/edit?usp=sharing)）
+
 ## Target User
 
 - 古着をオンラインで購入する人
